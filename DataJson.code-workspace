@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../DataJson"
+		},
+		{
+			"name": "test1",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
